@@ -1,0 +1,43 @@
+
+#slider_main {
+  position: relative;
+  z-index: 1;
+  
+}.preview_text {
+  text-align: center;
+  position: absolute;
+  top: 53%;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  padding: 0;
+}
+
+.preview_name {
+  text-align: center;
+  position: absolute;
+  top: 45%;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  font-weight: 700;
+}
+.preview_name a {
+  font-size: 48px;
+  line-height: 55px;
+  text-align: center;
+  text-transform: uppercase;
+  background: rgba(255, 255, 255, 0.4);
+  padding:11px 15px;
+  color: black;
+  text-decoration: none;
+}
+.preview_text span {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 18px;
+  text-align: center;
+  background-color: #FF6040;
+  color: #fff;
+  padding: 14px
+}

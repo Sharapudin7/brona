@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "Geometria";
+  src: local('Geometria-Regular'), url('./fonts/Geometria-Regular.ttf') format("truetype");
+}
+@font-face {
+  font-family: "Helvetica";
+  src: local('HelveticaNowDisplay-Regular'), url('./fonts/HelveticaNowDisplay-Regular.ttf') format("truetype");
+}
+@font-face {
+  font-family: "Helvetica";
+  src: local('HelveticaNowDisplay-Medium'), url('./fonts/HelveticaNowDisplay-Medium.ttf') format("truetype");
+}
+
+@font-face {
+  font-family: "Helvetica";
+  src: local('HelveticaNowDisplay-Bold'), url('./fonts/HelveticaNowDisplay-Bold.ttf') format("truetype");
+}

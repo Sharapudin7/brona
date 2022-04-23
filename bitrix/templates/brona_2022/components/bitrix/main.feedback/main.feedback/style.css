@@ -1,0 +1,23 @@
+.main__feedback {
+  padding: 30px 25px;
+  border: 1px solid #EEEEEE;
+}
+.main__feedback-header {
+  font-weight: 500;
+  font-size: 18px;
+  text-align: center;
+  color: #000000;
+  margin-bottom: 30px;
+}
+.main__feedback-block {
+  border-top: 1px solid #eee;
+  padding-top: 25px;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 18px;
+}
+.main__feedback-items {
+  margin-bottom: 7px;
+}
+.modal-body {
+  padding: 0 !important;
+}

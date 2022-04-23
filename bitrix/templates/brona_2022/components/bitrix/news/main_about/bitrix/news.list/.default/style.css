@@ -1,0 +1,74 @@
+.main__about {
+  padding-top: 50px;
+}
+.main__about-name {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 64px;
+  color: #333333;
+}
+.main__about-header {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #FD5545;
+}
+.main__about-text {
+  width: 46%;
+}
+.main__about-descr {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #333333;
+  margin-top: 20px;
+}
+.main__about-photos {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.main__about-left {
+  display: flex;
+  justify-content: space-between;
+}
+.main__about-photo {
+  margin-bottom: 26px;
+}
+.main__about-photo a img {
+  width: 100%;
+}
+.main__about-photo:nth-child(2) {
+  transform: translateY(62px);
+}
+.main__about-video {
+  width: 39%;
+  transform: translateY(40px);
+}
+.main__about-detail {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+  display: block;
+  color: #FD5545;
+  margin-top: 24px;
+  cursor: pointer;
+}
+.main__about-detail:hover {
+  color: #FD5545;;
+}
+.main__about-portfolio a {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+  color: #FF6040;
+  margin-right: 5px;
+}
+.main__about-portfolio a:hover {
+  color: #FF6040;
+}

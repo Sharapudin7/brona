@@ -1,0 +1,35 @@
+a.search-page-params {
+	border-bottom: 1px dashed blue;
+	text-decoration: none;
+}
+div.search-page-params {
+	margin-top: 6px;
+}
+.search-item-rate {font-size: 11px;}
+.search__catalog {
+  padding-top: 50px;
+}
+.search__inputs {
+  display: flex;
+  position: relative;
+  align-items: center;
+}
+.search__input-submit {
+  position: absolute;
+  left: 580px;
+}
+
+.search__form-submit {
+  background: url('/bitrix/templates/brona_2022/img/search.svg') no-repeat center;
+  width: 20px;
+  border: none;
+  cursor: pointer;
+}
+.search__form-input {
+  border: 1px solid #eee;
+  border-radius: 4px;
+  padding: 10px;
+  outline: none!important;
+  font-size: 17px;
+  width: 100%;
+}

@@ -1,0 +1,6 @@
+<?
+$sSectionName = "wishlist";
+$arDirProperties = Array(
+
+);
+?>
